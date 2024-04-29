@@ -1,7 +1,4 @@
-﻿//https://www.symbolab.com/solver/partial-derivative-calculator/%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%5Cleft(ax%5E%7B4%7D-bx%5Ccdot%20y%5E%7B2%7D%2Bcy%5E%7B2%7D%5Ccdot%20z%5E%7B2%7D-dz%5E%7B3%7D%2Blx-ky%2Be%5E%7Bz%7D-ln%5Cleft(x%5E%7B2%7D%2By%5E%7B2%7D%2B1%5Cright)%5Cright)?or=input
-//https://www.symbolab.com/solver/gradient-calculator/gradient%201%5Ccdot%20x%5E%7B4%7D%20-%205%5Ccdot%20x%5Ccdot%20y%5E%7B2%7D%20-4%5Ccdot%20y%5E%7B2%7D%5Ccdot%20z%5E%7B2%7D%20-%205%5Ccdot%20z%5E%7B3%7D%20%2B%205%5Ccdot%20x%20%2B%204%5Ccdot%20y%20%2B%20exp%5Cleft(z%5Cright)%20-%20log%5Cleft(x%5E%7B2%7D%20%2B%20y%5E%7B2%7D%20%2B%201%5Cright)?or=input
-
-namespace FunctionOptmization
+﻿namespace FunctionOptmization
 {
     internal class Program
     {
